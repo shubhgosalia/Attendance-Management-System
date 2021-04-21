@@ -19,3 +19,6 @@ RDBMS IA-2 Research Paper Implementation<br/>
 * Make sure you have mysql-connector-java-8.023 installed which is a driver that implements the java database connectivity(JDBC) API
 * Install and set-up the MySQL Workbench and create the database tables(refer screenshots below)
 * Finally, use any IDE that supports Java to execute the code
+
+---------------------------------------------------------------------------------
+
