@@ -20,7 +20,13 @@ RDBMS IA-2 Research Paper Implementation<br/>
   $ git clone https://github.com/shubhgosalia/Attendance-Management-System.git
 ```
 * Make sure you have mysql-connector-java-8.023 installed which is a driver that implements the java database connectivity(JDBC) API
+```
+Installation Link: https://dev.mysql.com/downloads/connector/j/?os=26
+```
 * Install and set-up the MySQL Workbench and create the database tables(refer screenshots in images folder)
+```
+Installation Link: https://dev.mysql.com/downloads/installer/
+```
 * Finally, use any IDE that supports Java to execute the code
 
 ---------------------------------------------------------------------------------
